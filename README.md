@@ -4,3 +4,5 @@
 
 Para ejecutar el proyecto, debes poner:
 ```npn install react```
+
+Sistema modificado.
